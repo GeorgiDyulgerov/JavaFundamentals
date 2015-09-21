@@ -1,0 +1,9 @@
+C:\...>cd Documents\EclipseProjects\Intro-Java-Homework\src
+
+C:\...\Documents\EclipseProjects\Intro-Java-Homework\src>javac
+ Problem03SumTwoNumbers.java
+
+C:\...\Documents\EclipseProjects\Intro-Java-Homework\src>java
+Problem03SumTwoNumbers
+5 7
+12
